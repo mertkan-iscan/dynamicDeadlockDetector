@@ -53,8 +53,4 @@ java LogProcessor thread_logs.txt
 
 ## Author
 
-mertkan iscan
-
-## License
-
-Specify your license here if needed (e.g., MIT, Apache-2.0).
+Mertkan İscan
